@@ -1,7 +1,7 @@
 {
   "name": "alx-frontend-javascript",
   "version": "1.0.0",
-  "description":"alx-frontend-javascript",
+  "description": "alx-frontend-javascript",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -13,7 +13,7 @@
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
     "babel-jest": "^27.4.5",
-    "eslint": "^8.10.0",
+    "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^16.0.3",
     "eslint-plugin-import": "^2.24.2",
     "jest": "^27.4.5"
