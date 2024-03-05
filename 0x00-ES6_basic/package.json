@@ -1,20 +1,21 @@
 {
-  "name": "your-project-name",
+  "name": "alx-frontend-javascript",
   "version": "1.0.0",
-  "description": "Your project description",
+  "description":"alx-frontend-javascript",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node your_entry_file.js"
   },
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.12.11",
-    "@babel/preset-env": "^7.12.11",
-    "babel-jest": "^27.0.6",
-    "eslint": "^8.2.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.24.0",
-    "jest": "^27.0.6"
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-jest": "^27.4.5",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "jest": "^27.4.5"
   }
 }
